@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jost:wght@100;200;300;400;500;600;800&family=Nunito+Sans:wght@200&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #e5e5e5;
+
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px 50px 0px 80px;
+}
+
+h1 {
+  font-family: 'jost';
+  font-weight: 600;
+  font-size: 50px;
+  color: #191919;
+  text-decoration: none;
+  cursor: pointer;
+  letter-spacing: 1px;
+  padding-right: 630px;
+  text-transform: uppercase;
+}
+
+image {
+  border: 5px solid #313030;
+}
+
+.sonubhagat {
+  border-radius: 50%;
+  width: 100px;
+  margin-right: -50px;
+  border-width: 10px;
+}
+
+.navlink li,
+a {
+  font-family: 'jost''bebas';
+  font-weight: 500;
+  font-size: 25px;
+  color: #191919;
+  text-underline-offset: none;
+
+}
+
+.navlink {
+  list-style-type: style;
+  ;
+}
+
+.navlink li {
+  display: inline-block;
+  padding: 0px 20px;
+  cursor: pointer;
+}
+
+.self {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.intro01 {
+  padding-left: 280px;
+  padding-top: 150px;
+  margin-bottom: 200px;
+  justify-items: center;
+
+}
+
+.MS {
+  font-family: 'jost', 'Bebas';
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #191919;
+}
+
+.MS1 {
+  font-family: 'jost', 'Bebas';
+  font-size: 35px;
+  text-transform: uppercase;
+  color: #191919;
+}
+
+.sonu {
+  font-family: 'jost', 'Bebas';
+  font-size: 80px;
+  margin: none;
+  padding: none;
+  text-transform: uppercase;
+  color: #191919;
+
+}
+
+.prof {
+  font-family: 'jost', 'Bebas';
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-justify: auto;
+  text-decoration: solid;
+  color: #ea3057;
+}
+
+.dev {
+  width: 700px;
+  height: 700px;
+  padding-right: 80px;
+
+}
+
+.container {
+  background-color: #a8f5f5d6;
+  max-width: 1500px;
+  margin: auto;
+  height: 450px auto;
+  border-radius: 5px;
+  margin-top: 100px;
+  padding-top: 180px;
+  padding-left: 180px;
+  padding-right: 180px;
+  padding-bottom: 470px;
+
+}
+
+.Summary {
+  font-family: 'jost', 'Bebas';
+  text-align: center;
+  font-weight: 500;
+  font-size: 50px;
+}
+
+.profile-text {
+  color: rgb(39, 40, 40);
+  font-family: 'jost', 'Bebas';
+  font-weight: 400;
+  font-size: 28px;
+  text-align: center;
+  justify-content: center;
+  margin: 1px 10px 80px 10px;
+}
+
+b {
+  font-weight: 450;
+}
+.container1 {
+  background-color: #a8f5f5d6;
+  max-width: 1500px;
+  margin: auto;
+  height: 450px auto;
+  border-radius:5px;
+  margin-top: 12px;
+  padding-top: 180px;
+  padding-left: 180px;
+  padding-right: 180px;
+  padding-bottom: 550px;
+
+}
+
